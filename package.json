@@ -1,0 +1,8 @@
+{
+    "name": "@yev.pyl/tiny_package-ts",
+    "version": "3.0.0",
+    "description": "Tiny module to trim the string",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "license": "ISC"
+}

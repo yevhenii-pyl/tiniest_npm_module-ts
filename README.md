@@ -4,6 +4,7 @@
 
 It's the tiniest module I can imagine. Works like an ES module. Now using TypeScript. 
 
+```jsx
 import {tiny} from "@yev.pyl/tiny_package-ts"
 
 tiny("So much space!");
@@ -11,3 +12,5 @@ tiny("So much space!");
 
 tiny(1337);
 //=> Uncaught TypeError: Tiny wants a string!
+
+```
